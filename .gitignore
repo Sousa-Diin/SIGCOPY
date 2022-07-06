@@ -1,3 +1,5 @@
 /SigUfla/build/
 *.xml
 /TE/nbproject/private/
+*.form
+*.form
